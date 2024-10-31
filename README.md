@@ -1,0 +1,2 @@
+### In "website_php_server" folder you will find website with database where user will login and control the room via nodemcu board
+### In ""NodeMcu_clientSide_code" folder you will find program code which needs to be uploaded to node mcu board, upon which it will connect to wifi(change ssid and password in code) and then connect to hivemq server from which it will receive bytes 1,2,3 etc to control the light, fan etc
